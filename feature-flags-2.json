@@ -1,1 +1,1 @@
-{ name: 'show-home-page', isActive: false },
+{ "name": "show-home-page", "isActive": true },
